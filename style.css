@@ -21,10 +21,10 @@ header{
 .left-bar{
     color:green;
     float:left;
-    width:8%; 
+    width:8.6%; 
 }
 .navig-bar{     
-    margin-left:10%;
+    margin-left:5%;
     background:lightgrey;
     width:60%;
 }
@@ -50,9 +50,9 @@ header{
     padding:10px;
 }
 .right-bar{
-    margin:2%;
-    width:15%;
-    float:right;
+    margin:0;
+    width:8.6%;
+    float:left;
 }
 .right-bar>ul>li{
     list-style-type: none;
